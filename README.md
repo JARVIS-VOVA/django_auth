@@ -22,3 +22,10 @@ pip3 freeze
 ```
 vercel --prod
 ```
+
+### Links
+[railway.app (DB)](https://railway.app)
+
+[vercel.com (host + domain)](https://vercel.com)
+
+[django-auth project](https://django-auth-gzpwdwogn-jarvis-vova.vercel.app)
